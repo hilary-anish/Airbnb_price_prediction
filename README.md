@@ -3,7 +3,10 @@
 <h3>Data Analysis Insights</h3>
 <ul>
   <li>Price Range of various cities in different days</li>
-  <li>cleanliness ratings of different cities</li>
+  <li>Cleanliness ratings of different cities</li>
+  <li>Average Price is each cities</li>
+  <li>Room types in various cities</li>
+  <li>Price variations with City center distance</li>
 </ul>
 
 <h3>Data Modelling </h3>
